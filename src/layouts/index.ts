@@ -1,1 +1,1 @@
-export * from "./PageNavigation"
+export * from './PageNavigation';
